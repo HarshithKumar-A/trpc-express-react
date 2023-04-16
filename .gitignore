@@ -45,4 +45,4 @@ testem.log
 Thumbs.db
 
 
-.client/node_modules
+client/node_modules
